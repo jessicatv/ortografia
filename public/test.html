@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seleccionar Archivo JSON</title>
+</head>
+<body>
+  <h1>Seleccionar Archivo JSON</h1>
+  <select id="categoriaSelect">
+    <option value="">Seleccione una categoría</option>
+  </select>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const categoriaSelect = document.getElementById('categoriaSelect');
+
+      // Función para obtener la lista de categorías
+      function obtenerListaDeCategorias() {
+        fetch('/api/listar-json')
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Error al obtener la lista de categorías');
+            }
+            return response.json();
+          })
+          .then(files => {
+            // Llenar el selector con los nombres de los archivos JSON
+            files.forEach(file => {
+              const option = document.createElement('option');
+              option.value = file;
+              option.textContent = file.replace('.json', '');
+              categoriaSelect.appendChild(option);
+            });
+          })
+          .catch(error => {
+            console.error('Error al obtener la lista de categorías:', error);
+          });
+      }
+
+      // Llamar a la función para obtener la lista de categorías
+      obtenerListaDeCategorias();
+    });
+  </script>
+</body>
+</html>

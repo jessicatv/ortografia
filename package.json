@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "faltas",
+  "version": "1.0.0",
+  "description": "Faltas ortograficas training",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "jess",
+  "license": "MIT"
+}

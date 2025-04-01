@@ -1,0 +1,152 @@
+[
+  {
+    "correcta": "fácil",
+    "descripcion": "La palabra 'fácil' lleva tilde en la 'a' para marcar la sílaba tónica en una palabra llana.",
+    "incorrecta": "facil"
+  },
+  {
+    "correcta": "débil",
+    "descripcion": "La palabra 'débil' requiere tilde en la 'e' para marcar la acentuación correcta.",
+    "incorrecta": "debil"
+  },
+  {
+    "correcta": "carácter",
+    "descripcion": "La palabra 'carácter' lleva tilde en la 'a' para diferenciar su pronunciación.",
+    "incorrecta": "caracter"
+  },
+  {
+    "correcta": "huésped",
+    "descripcion": "La palabra 'huésped' lleva tilde en la 'e' para marcar la vocal tónica en esta palabra llana.",
+    "incorrecta": "huesped"
+  },
+  {
+    "correcta": "móvil",
+    "descripcion": "La palabra 'móvil' se acentúa en la 'o' para indicar la sílaba tónica.",
+    "incorrecta": "movil"
+  },
+  {
+    "correcta": "álbum",
+    "descripcion": "La palabra 'álbum' lleva tilde en la 'a' por tratarse de una palabra llana con excepción de terminaciones.",
+    "incorrecta": "album"
+  },
+  {
+    "correcta": "crónica",
+    "descripcion": "La palabra 'crónica' requiere tilde en la 'o' para marcar la acentuación en una palabra llana.",
+    "incorrecta": "cronica"
+  },
+  {
+    "correcta": "médico",
+    "descripcion": "La palabra 'médico' lleva tilde en la 'e' para diferenciar su sílaba tónica.",
+    "incorrecta": "medico"
+  },
+  {
+    "correcta": "público",
+    "descripcion": "La palabra 'público' se acentúa en la 'u' para marcar la vocal tónica en una palabra llana.",
+    "incorrecta": "publico"
+  },
+  {
+    "correcta": "examen",
+    "descripcion": "La palabra 'examen' no lleva tilde, por lo que escribir 'exámen' es incorrecto.",
+    "incorrecta": "exámen"
+  },
+  {
+    "correcta": "joven",
+    "descripcion": "La palabra 'joven' no lleva tilde; el error 'jóven' añade una tilde innecesaria.",
+    "incorrecta": "jóven"
+  },
+  {
+    "correcta": "volumen",
+    "descripcion": "La palabra 'volumen' se escribe sin tilde; 'volúmen' es un error de acentuación.",
+    "incorrecta": "volúmen"
+  },
+  {
+    "correcta": "crimen",
+    "descripcion": "La palabra 'crimen' no lleva tilde, por lo que 'crímen' es incorrecto.",
+    "incorrecta": "crímen"
+  },
+  {
+    "correcta": "ejército",
+    "descripcion": "La palabra 'ejército' es esdrújula y siempre lleva tilde en la 'e'.",
+    "incorrecta": "ejercito"
+  },
+  {
+    "correcta": "océano",
+    "descripcion": "La palabra 'océano' debe llevar tilde en la 'e' por ser esdrújula.",
+    "incorrecta": "oceano"
+  },
+  {
+    "correcta": "cónyuge",
+    "descripcion": "La palabra 'cónyuge' se acentúa para marcar la pronunciación correcta.",
+    "incorrecta": "conyuge"
+  },
+  {
+    "correcta": "álgebra",
+    "descripcion": "La palabra 'álgebra' lleva tilde en la 'a' para mantener su acentuación esdrújula.",
+    "incorrecta": "algebra"
+  },
+  {
+    "correcta": "ídolo",
+    "descripcion": "La palabra 'ídolo' debe llevar tilde en la 'i' para marcar la sílaba tónica.",
+    "incorrecta": "idolo"
+  },
+  {
+    "correcta": "música",
+    "descripcion": "La palabra 'música' lleva tilde en la 'u' para conservar su pronunciación correcta.",
+    "incorrecta": "musica"
+  },
+  {
+    "correcta": "técnicamente",
+    "descripcion": "La palabra 'técnicamente' es sobreesdrújula y requiere tilde para marcar la acentuación.",
+    "incorrecta": "tecnicamente"
+  },
+  {
+    "correcta": "país",
+    "descripcion": "La palabra 'país' lleva tilde en la 'í' para separar el hiato entre 'a' e 'í'.",
+    "incorrecta": "pais"
+  },
+  {
+    "correcta": "raíz",
+    "descripcion": "La palabra 'raíz' debe llevar tilde en la 'í' para indicar el hiato.",
+    "incorrecta": "raiz"
+  },
+  {
+    "correcta": "maíz",
+    "descripcion": "La palabra 'maíz' lleva tilde en la 'í' para marcar la separación de vocales.",
+    "incorrecta": "maiz"
+  },
+  {
+    "correcta": "oído",
+    "descripcion": "La palabra 'oído' requiere tilde en la 'í' para reflejar el hiato entre vocales.",
+    "incorrecta": "oido"
+  },
+  {
+    "correcta": "baúl",
+    "descripcion": "La palabra 'baúl' lleva tilde en la 'ú' para marcar la pronunciación correcta.",
+    "incorrecta": "baul"
+  },
+  {
+    "correcta": "aún",
+    "descripcion": "El adverbio 'aún' se acentúa cuando equivale a 'todavía'; 'aun' sin tilde tiene otro significado.",
+    "incorrecta": "aun"
+  },
+  {
+    "correcta": "sonreír",
+    "descripcion": "La palabra 'sonreír' debe llevar tilde en la 'í' para marcar la separación en el diptongo.",
+    "incorrecta": "sonreir"
+  },
+  {
+    "correcta": "ríe",
+    "descripcion": "La forma correcta 'ríe' lleva tilde para reflejar la vocal tónica en este diptongo.",
+    "incorrecta": "rie"
+  },
+  {
+    "correcta": "creí",
+    "descripcion": "La palabra 'creí' se acentúa en la 'í' para marcar el hiato en la conjugación verbal.",
+    "incorrecta": "crei"
+  },
+  {
+    "correcta": "actúe",
+    "descripcion": "La palabra 'actúe' lleva tilde para diferenciar la conjugación del verbo actuar.",
+    "incorrecta": "actue"
+  }
+]

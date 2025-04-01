@@ -1,0 +1,99 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #333;
+  }
+  
+  #app {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Header */
+  header {
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    color: #007bff;
+    margin: 0;
+  }
+  
+  #score {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  #score-value {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Selector de categoría */
+  #categoria {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  /* Descripción */
+  #descripcion-container {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #descripcion {
+    font-size: 18px;
+    color: #d35400;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* Botones de palabras */
+  #word-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .word-button {
+    padding: 15px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .word-button:hover {
+    background: #0056b3;
+  }
+  
+  /* Resultado */
+  #result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
