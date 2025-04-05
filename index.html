@@ -1,22 +1,69 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Práctica de Ortografía</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style_editorial.css" />
+  <link rel="stylesheet" href="css/barra_inferior.css" />
+  <link rel="stylesheet" href="css/feedback_botones.css" />
+  <link rel="stylesheet" href="css/pista_tooltip.css" />
+  <link rel="stylesheet" href="css/selector_con_flecha.css" />
+  
 </head>
 <body>
   <div id="app">
+    <div class="lang-selector">
+      <button id="lang-es">ES</button>
+      <button id="lang-va">VA</button>
+    </div>
     <header>
       <h1>Práctica de Ortografía</h1>
       <p id="score">Puntuación: <span id="score-value">0</span></p>
-      <select id="categoria-select"></select>
+     
+     <!-- Pega esto en tu HTML -->
+<div class="select-wrapper">
+  <select id="categoria-select"></select>
+  <div class="custom-arrow">▼</div>
+</div>
+
+      
+      
+      
     </header>
     <main>
-      <div id="descripcion-container">
-        <p id="descripcion">Selecciona una categoría para comenzar</p>
-      </div>
+     
+
+<!-- Botón de ayuda con texto que aparece al hacer clic (móvil compatible) -->
+<div class="tooltip">
+  <div class="tooltip-icon" id="toggle-desc">💡</div>
+</div>
+<div id="descripcion" class="tooltip-text"></div>
+
+<script>
+  const iconoPista = document.getElementById('toggle-desc');
+  const textoDescripcion = document.getElementById('descripcion');
+
+  iconoPista.addEventListener('click', () => {
+    textoDescripcion.style.display = (textoDescripcion.style.display === 'block') ? 'none' : 'block';
+  });
+
+  // Ocultar el texto al hacer clic en cualquier palabra
+  document.getElementById('word1').addEventListener('click', () => {
+    textoDescripcion.style.display = 'none';
+  });
+  document.getElementById('word2').addEventListener('click', () => {
+    textoDescripcion.style.display = 'none';
+  });
+</script>
+
+
       <div id="word-container">
         <button id="word1" class="word-button" disabled></button>
         <button id="word2" class="word-button" disabled></button>
@@ -24,6 +71,34 @@
       <p id="resultado"></p>
     </main>
   </div>
-  <script src="script.js"></script>
+
+
+  <!-- INICIO de barra inferior -->
+<!-- Pega aquí el contenido del archivo barra_inferior.html -->
+ <!-- Barra inferior -->
+<div class="bottom-bar">
+  <button class="icon-button" onclick="window.location.reload();">
+    <img src="https://img.icons8.com/ios-filled/50/home.png" alt="Inicio" />
+  </button>
+  <div class="score-display">Punts: <span id="score-value-bottom">0</span></div>
+</div>
+
+<script>
+  // Sincroniza la puntuación inferior con la del header
+  const scoreValueTop = document.getElementById("score-value");
+  const scoreValueBottom = document.getElementById("score-value-bottom");
+
+  const observer = new MutationObserver(() => {
+    scoreValueBottom.textContent = scoreValueTop.textContent;
+  });
+
+  observer.observe(scoreValueTop, { childList: true });
+</script>
+
+<!-- FIN de barra inferior -->
+
+
+
+<script src="script.js"></script>
 </body>
 </html>

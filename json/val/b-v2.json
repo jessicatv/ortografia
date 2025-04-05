@@ -1,0 +1,52 @@
+[
+    {
+      "correcta": "bé",
+      "descripcion": "Error freqüent: escriure 'vé'. L'adverbi 'bé' s'escriu amb B.",
+      "incorrecta": "vé"
+    },
+    {
+      "correcta": "vostè",
+      "descripcion": "Error comú: escriure 'bostè'. El tractament formal 'vostè' s'escriu amb V.",
+      "incorrecta": "bostè"
+    },
+    {
+      "correcta": "bolcar",
+      "descripcion": "Error freqüent: escriure 'volcar'. El verb 'bolcar' s'escriu amb B.",
+      "incorrecta": "volcar"
+    },
+    {
+      "correcta": "viva",
+      "descripcion": "Error comú: escriure 'biba'. L'exclamació 'viva' s'escriu amb V.",
+      "incorrecta": "biba"
+    },
+    {
+      "correcta": "banyera",
+      "descripcion": "Error freqüent: escriure 'vanyera'. En valencià s'escriu amb B.",
+      "incorrecta": "vanyera"
+    },
+    {
+      "correcta": "vendre",
+      "descripcion": "Error comú: escriure 'bendre'. El verb 'vendre' s'escriu amb V.",
+      "incorrecta": "bendre"
+    },
+    {
+      "correcta": "barba",
+      "descripcion": "Error freqüent: escriure 'varva'. En valencià s'escriu amb B.",
+      "incorrecta": "varva"
+    },
+    {
+      "correcta": "volar",
+      "descripcion": "Error comú: escriure 'bolar'. El verb 'volar' s'escriu amb V.",
+      "incorrecta": "bolar"
+    },
+    {
+      "correcta": "buit",
+      "descripcion": "Error freqüent: escriure 'vuit'. L'adjectiu 'buit' s'escriu amb B.",
+      "incorrecta": "vuit"
+    },
+    {
+      "correcta": "vaga",
+      "descripcion": "Error comú: escriure 'baga'. 'Vaga' (de treball) s'escriu amb V.",
+      "incorrecta": "baga"
+    }
+  ]

@@ -1,0 +1,52 @@
+[
+    {
+      "correcta": "ambició",
+      "descripcion": "Substantiu amb accent a la O; 'ambicio' és incorrecte.",
+      "incorrecta": "ambicio"
+    },
+    {
+      "correcta": "cànon",
+      "descripcion": "Substantiu amb accent a la A; 'canon' és incorrecte.",
+      "incorrecta": "canon"
+    },
+    {
+      "correcta": "dèbil",
+      "descripcion": "Adjectiu amb accent a la E; 'debil' és incorrecte.",
+      "incorrecta": "debil"
+    },
+    {
+      "correcta": "efímer",
+      "descripcion": "Adjectiu amb accent a la I; 'efimer' és incorrecte.",
+      "incorrecta": "efimer"
+    },
+    {
+      "correcta": "fàcil",
+      "descripcion": "Adjectiu amb accent a la A; 'facil' és incorrecte.",
+      "incorrecta": "facil"
+    },
+    {
+      "correcta": "género",
+      "descripcion": "Substantiu amb accent a la E; 'genero' és incorrecte.",
+      "incorrecta": "genero"
+    },
+    {
+      "correcta": "hàbit",
+      "descripcion": "Substantiu amb accent a la A; 'habit' és incorrecte.",
+      "incorrecta": "habit"
+    },
+    {
+      "correcta": "índex",
+      "descripcion": "Substantiu amb accent a la I; 'index' és incorrecte.",
+      "incorrecta": "index"
+    },
+    {
+      "correcta": "júdic",
+      "descripcion": "Adjectiu amb accent a la U; 'judic' és incorrecte.",
+      "incorrecta": "judic"
+    },
+    {
+      "correcta": "làpix",
+      "descripcion": "Substantiu amb accent a la A; 'lapix' és incorrecte.",
+      "incorrecta": "lapix"
+    }
+  ]

@@ -1,0 +1,34 @@
+
+/* Barra inferior fija estilo app móvil */
+.bottom-bar {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 40px);
+  max-width: 500px;
+  background-color: #fff;
+  border-radius: 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 999;
+}
+
+.bottom-bar .icon-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.bottom-bar .icon-button img {
+  width: 28px;
+  height: 28px;
+}
+
+.bottom-bar .score-display {
+  font-weight: bold;
+  font-size: 1.2em;
+}

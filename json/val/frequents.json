@@ -1,0 +1,58 @@
+[
+    {
+      "correcta": "espremir",
+      "descripcion": "Verbal que significa 'traure el suc d'alguna cosa'; 'esprimir' és una forma incorrecta.",
+      "incorrecta": "esprimir"
+    },
+    {
+      "correcta": "essència",
+      "descripcion": "Substantiu que fa referència a la part fonamental d'alguna cosa; 'esensia' és incorrecte.",
+      "incorrecta": "esensia"
+    },
+    {
+      "correcta": "exòtic",
+      "descripcion": "Adjectiu que vol dir 'estrany o poc comú'; 'esòtic' és una grafia errònia.",
+      "incorrecta": "esòtic"
+    },
+    {
+      "correcta": "absorbir",
+      "descripcion": "Verbal que vol dir 'incorporar un líquid'; 'absolver' és un error per confusió verbal.",
+      "incorrecta": "absolver"
+    },
+    {
+      "correcta": "accedir",
+      "descripcion": "Verbal que vol dir 'tenir accés a alguna cosa'; 'aseder' és una forma incorrecta.",
+      "incorrecta": "aseder"
+    },
+    {
+      "correcta": "adhesiu",
+      "descripcion": "Adjectiu o substantiu que s'adhereix a alguna superfície; 'adesiu' és incorrecte per omissió de la H.",
+      "incorrecta": "adesiu"
+    },
+    {
+      "correcta": "assumir",
+      "descripcion": "Verbal que vol dir 'acceptar o suposar'; 'azumir' és una forma incorrecta per confusió de consonant.",
+      "incorrecta": "azumir"
+    },
+    {
+      "correcta": "extraordinari",
+      "descripcion": "Adjectiu que significa 'fora del comú'; 'extrordinari' és un error per omissió de la 'a'.",
+      "incorrecta": "extrordinari"
+    },
+    {
+      "correcta": "desgraciadament",
+      "descripcion": "Adverbi que significa 'de manera molt desafortunada'; 'desgrasiadament' és incorrecte.",
+      "incorrecta": "desgrasiadament"
+    },
+    {
+      "correcta": "interessant",
+      "descripcion": "Adjectiu que significa 'que crida l'atenció'; 'intresant' és un error per omissió de la 'e'.",
+      "incorrecta": "intresant"
+    },
+    {
+      "correcta": "pronunciació",
+      "descripcion": "Substantiu que fa referència a com s'articulen les paraules; 'pronunciacio' sense accent és incorrecte.",
+      "incorrecta": "pronunciacio"
+    }
+  ]
+  

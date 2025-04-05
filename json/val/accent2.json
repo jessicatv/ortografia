@@ -1,0 +1,52 @@
+[
+    {
+      "correcta": "difícil",
+      "descripcion": "Adjectiu amb accent a la I; 'dificil' és incorrecte.",
+      "incorrecta": "dificil"
+    },
+    {
+      "correcta": "gràcies",
+      "descripcion": "Substantiu plural amb accent a la A; 'gracies' és incorrecte.",
+      "incorrecta": "gracies"
+    },
+    {
+      "correcta": "història",
+      "descripcion": "Substantiu amb accent a la O; 'historia' és incorrecte.",
+      "incorrecta": "historia"
+    },
+    {
+      "correcta": "jòven",
+      "descripcion": "Adjectiu amb accent a la O; 'joven' és incorrecte.",
+      "incorrecta": "joven"
+    },
+    {
+      "correcta": "lúdic",
+      "descripcion": "Adjectiu amb accent a la U; 'ludic' és incorrecte.",
+      "incorrecta": "ludic"
+    },
+    {
+      "correcta": "música",
+      "descripcion": "Substantiu amb accent a la U; 'musica' és incorrecte.",
+      "incorrecta": "musica"
+    },
+    {
+      "correcta": "pàgina",
+      "descripcion": "Substantiu amb accent a la A; 'pagina' és incorrecte.",
+      "incorrecta": "pagina"
+    },
+    {
+      "correcta": "sèrie",
+      "descripcion": "Substantiu amb accent a la E; 'serie' és incorrecte.",
+      "incorrecta": "serie"
+    },
+    {
+      "correcta": "tècnic",
+      "descripcion": "Adjectiu amb accent a la E; 'tecnic' és incorrecte.",
+      "incorrecta": "tecnic"
+    },
+    {
+      "correcta": "útil",
+      "descripcion": "Adjectiu amb accent a la U; 'util' és incorrecte.",
+      "incorrecta": "util"
+    }
+  ]

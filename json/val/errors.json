@@ -1,0 +1,52 @@
+[
+    {
+      "correcta": "així",
+      "descripcion": "Error freqüent: confondre 'així' amb 'aixi'. La forma correcta inclou accent.",
+      "incorrecta": "aixi"
+    },
+    {
+      "correcta": "després",
+      "descripcion": "Error comú: ometre l'accent en 'després'. La forma correcta duu accent agut.",
+      "incorrecta": "despres"
+    },
+    {
+      "correcta": "món",
+      "descripcion": "Error freqüent: escriure 'mon' sense accent. La forma correcta requereix accent.",
+      "incorrecta": "mon"
+    },
+    {
+      "correcta": "té",
+      "descripcion": "Error comú: confondre 'té' (verb) amb 'te' (pronom). La forma correcta duu accent.",
+      "incorrecta": "te"
+    },
+    {
+      "correcta": "què",
+      "descripcion": "Error freqüent: escriure 'que' sense accent en interrogatives o exclamatives. La forma correcta duu accent.",
+      "incorrecta": "que"
+    },
+    {
+      "correcta": "més",
+      "descripcion": "Error comú: ometre l'accent en 'més'. La forma correcta duu accent agut.",
+      "incorrecta": "mes"
+    },
+    {
+      "correcta": "aquí",
+      "descripcion": "Error freqüent: escriure 'aqui' sense accent. La forma correcta requereix accent.",
+      "incorrecta": "aqui"
+    },
+    {
+      "correcta": "també",
+      "descripcion": "Error comú: ometre l'accent en 'també'. La forma correcta duu accent agut.",
+      "incorrecta": "tambe"
+    },
+    {
+      "correcta": "pel",
+      "descripcion": "Error freqüent: confondre 'pel' (contracció) amb 'per el'. La forma correcta és la contracció.",
+      "incorrecta": "per el"
+    },
+    {
+      "correcta": "al",
+      "descripcion": "Error comú: confondre 'al' (contracció) amb 'a el'. La forma correcta és la contracció.",
+      "incorrecta": "a el"
+    }
+  ]

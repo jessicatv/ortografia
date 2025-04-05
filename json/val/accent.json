@@ -1,0 +1,52 @@
+[
+  {
+    "correcta": "període",
+    "descripcion": "Substantiu amb accent a la I; 'periode' és incorrecte.",
+    "incorrecta": "periode"
+  },
+  {
+    "correcta": "ràpidament",
+    "descripcion": "Adverbi amb accent a la A inicial; 'rapidament' és incorrecte.",
+    "incorrecta": "rapidament"
+  },
+  {
+    "correcta": "crític",
+    "descripcion": "Adjectiu que du accent; 'critíc' o 'critíc' són errors comuns.",
+    "incorrecta": "critic"
+  },
+  {
+    "correcta": "lògica",
+    "descripcion": "Substantiu que requereix accent per tonicitat; 'logica' és una forma errònia.",
+    "incorrecta": "logica"
+  },
+  {
+    "correcta": "públic",
+    "descripcion": "Adjectiu relacionat amb 'la gent'; 'public' sense accent és incorrecte.",
+    "incorrecta": "public"
+  },
+  {
+    "correcta": "qüestió",
+    "descripcion": "Substantiu amb accent i dièresi; 'questio' és incorrecte.",
+    "incorrecta": "questio"
+  },
+  {
+    "correcta": "tòpic",
+    "descripcion": "Adjectiu o substantiu amb accent; 'topic' no és correcte.",
+    "incorrecta": "topic"
+  },
+  {
+    "correcta": "àrea",
+    "descripcion": "Substantiu amb accent obert; 'area' és un error habitual.",
+    "incorrecta": "area"
+  },
+  {
+    "correcta": "família",
+    "descripcion": "Substantiu amb accent a la I; 'familia' és incorrecte.",
+    "incorrecta": "familia"
+  },
+  {
+    "correcta": "mèrit",
+    "descripcion": "Substantiu masculí amb accent; 'merit' és erroni.",
+    "incorrecta": "merit"
+  }
+]

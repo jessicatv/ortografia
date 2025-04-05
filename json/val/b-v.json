@@ -1,0 +1,52 @@
+[
+    {
+      "correcta": "vaca",
+      "descripcion": "Error freqüent: escriure 'baca'. En valencià s'escriu amb V.",
+      "incorrecta": "baca"
+    },
+    {
+      "correcta": "boca",
+      "descripcion": "Error freqüent: escriure 'voca'. En valencià s'escriu amb B.",
+      "incorrecta": "voca"
+    },
+    {
+      "correcta": "vendre",
+      "descripcion": "Error comú: escriure 'bendre'. El verb 'vendre' s'escriu amb V.",
+      "incorrecta": "bendre"
+    },
+    {
+      "correcta": "biberó",
+      "descripcion": "Error freqüent: escriure 'viveró'. En valencià s'escriu amb B.",
+      "incorrecta": "viveró"
+    },
+    {
+      "correcta": "viatge",
+      "descripcion": "Error comú: escriure 'biatge'. 'Viatge' s'escriu amb V.",
+      "incorrecta": "biatge"
+    },
+    {
+      "correcta": "barri",
+      "descripcion": "Error freqüent: escriure 'varri'. En valencià s'escriu amb B.",
+      "incorrecta": "varri"
+    },
+    {
+      "correcta": "voler",
+      "descripcion": "Error comú: escriure 'boler'. El verb 'voler' s'escriu amb V.",
+      "incorrecta": "boler"
+    },
+    {
+      "correcta": "bany",
+      "descripcion": "Error freqüent: escriure 'vany'. En valencià s'escriu amb B.",
+      "incorrecta": "vany"
+    },
+    {
+      "correcta": "vent",
+      "descripcion": "Error comú: escriure 'bent'. 'Vent' (aire) s'escriu amb V.",
+      "incorrecta": "bent"
+    },
+    {
+      "correcta": "vora",
+      "descripcion": "Error freqüent: escriure 'bora'. 'Vora' s'escriu amb V.",
+      "incorrecta": "bora"
+    }
+  ]

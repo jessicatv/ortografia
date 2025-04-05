@@ -1,0 +1,39 @@
+
+.select-wrapper {
+  position: relative;
+  width: 60%;
+  margin: 0 auto 30px;
+}
+
+.select-wrapper select {
+  width: 100%;
+  padding: 16px;
+  padding-right: 48px; /* espacio para la flechita */
+  font-size: 1.3em;
+  border: 2px solid #000;
+  border-radius: 16px;
+  background-color: #fefefe;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  z-index: 1;
+}
+
+.custom-arrow {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  width: 32px;
+  height: 32px;
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 50%;
+  font-size: 0.8em;
+  font-weight: bold;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none; /* flecha decorativa, no intercepta clics */
+}

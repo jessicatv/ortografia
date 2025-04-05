@@ -1,0 +1,13 @@
+
+/* Ya heredado del estilo editorial previo */
+.word-button.correct {
+  background-color: #a5d6a7; /* verde claro */
+  border-color: #2e7d32;
+  color: #000;
+}
+
+.word-button.incorrect {
+  background-color: #ef9a9a; /* rojo claro */
+  border-color: #c62828;
+  color: #000;
+}
