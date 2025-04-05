@@ -10,32 +10,30 @@ document.addEventListener('DOMContentLoaded', () => {
   let indicePalabra = 0;
   let score = 0;
 
-  // Obtener la lista de categorías desde index.json
+  // Lista fija de archivos JSON
   function obtenerListaDeCategorias() {
-    fetch('/json/index.json')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Error al obtener index.json');
-        }
-        return response.json();
-      })
-      .then(files => {
-        // Llenar el selector con los nombres de los archivos JSON
-        files.forEach(file => {
-          const option = document.createElement('option');
-          option.value = file;
-          option.textContent = file.replace('.json', '');
-          categoriaSelect.appendChild(option);
-        });
-      })
-      .catch(error => {
-        console.error('Error al obtener index.json:', error);
-        const option = document.createElement('option');
-        option.value = 'palabras.json';
-        option.textContent = 'Palabras comunes';
-        categoriaSelect.appendChild(option);
-      });
+    const archivos = [
+      "bv.json",
+      "frecuentes.json",
+      "jg.json",
+      "tilde.json",
+      "h.json"
+    ];
+  
+    archivos.forEach((file, index) => {
+      const option = document.createElement('option');
+      option.value = file;
+      option.textContent = file.replace('.json', '');
+      categoriaSelect.appendChild(option);
+    });
+  
+    // Seleccionar el primero y cargarlo automáticamente
+    if (archivos.length > 0) {
+      categoriaSelect.value = archivos[0];
+      cargarCategoria(archivos[0]);
+    }
   }
+  
 
   // Cargar el contenido del archivo JSON seleccionado
   function cargarCategoria(filename) {
