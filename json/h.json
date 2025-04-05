@@ -1,0 +1,108 @@
+[
+    {
+      "correcta": "haber",
+      "descripcion": "Verbo auxiliar o sustantivo que significa 'existir'; 'aber' es un error de omisión de la H.",
+      "incorrecta": "aber"
+    },
+    {
+      "correcta": "hacer",
+      "descripcion": "Verbo que significa 'realizar una acción'; 'acer' es incorrecto por la falta de la H.",
+      "incorrecta": "acer"
+    },
+    {
+      "correcta": "hallazgo",
+      "descripcion": "Sustantivo que significa 'descubrimiento'; 'allazgo' es un error ortográfico al omitir la H.",
+      "incorrecta": "allazgo"
+    },
+    {
+      "correcta": "huele",
+      "descripcion": "Verbo que indica la acción de oler; 'uele' omite la H inicial.",
+      "incorrecta": "uele"
+    },
+    {
+      "correcta": "hueso",
+      "descripcion": "Sustantivo que se refiere a la parte dura del cuerpo; 'ueso' es incorrecto por omitir la H.",
+      "incorrecta": "ueso"
+    },
+    {
+      "correcta": "hondo",
+      "descripcion": "Adjetivo que significa 'profundo'; 'ondo' es incorrecto por la falta de H.",
+      "incorrecta": "ondo"
+    },
+    {
+      "correcta": "heroico",
+      "descripcion": "Adjetivo que significa 'valiente o digno de admiración'; 'eroico' es un error por omisión de la H.",
+      "incorrecta": "eroico"
+    },
+    {
+      "correcta": "hambriento",
+      "descripcion": "Adjetivo que significa 'tener mucha hambre'; 'ambriento' es incorrecto por omitir la H inicial.",
+      "incorrecta": "ambriento"
+    },
+    {
+      "correcta": "almohada",
+      "descripcion": "Sustantivo que se refiere a un cojín para la cabeza; 'almoada' es incorrecto por omitir la H intercalada.",
+      "incorrecta": "almoada"
+    },
+    {
+      "correcta": "alcohol",
+      "descripcion": "Sustantivo que designa una bebida o sustancia química; 'alcol' es incorrecto por omitir la H.",
+      "incorrecta": "alcol"
+    },
+    {
+      "correcta": "hábito",
+      "descripcion": "Sustantivo que significa 'costumbre o práctica'; 'abito' es un error por omisión de la H.",
+      "incorrecta": "abito"
+    },
+    {
+      "correcta": "hormiga",
+      "descripcion": "Sustantivo que se refiere a un insecto; 'ormiga' es incorrecto por omitir la H inicial.",
+      "incorrecta": "ormiga"
+    },
+    {
+      "correcta": "huevo",
+      "descripcion": "Sustantivo que significa 'producto de algunas aves'; 'uevo' es incorrecto por omitir la H.",
+      "incorrecta": "uevo"
+    },
+    {
+      "correcta": "hoja",
+      "descripcion": "Sustantivo que se refiere a la lámina de las plantas; 'oja' es incorrecto por la omisión de la H.",
+      "incorrecta": "oja"
+    },
+    {
+      "correcta": "hervir",
+      "descripcion": "Verbo que significa 'llevar al punto de ebullición'; 'ervir' es incorrecto al faltar la H.",
+      "incorrecta": "ervir"
+    },
+    {
+      "correcta": "héroe",
+      "descripcion": "Sustantivo que se refiere a alguien admirable; 'eroe' es un error por omisión de la H.",
+      "incorrecta": "eroe"
+    },
+    {
+      "correcta": "hora",
+      "descripcion": "Sustantivo que indica el tiempo; 'ora' es incorrecto por omitir la H inicial.",
+      "incorrecta": "ora"
+    },
+    {
+      "correcta": "hermano",
+      "descripcion": "Sustantivo que se refiere a un familiar varón; 'ermano' es un error por la omisión de la H.",
+      "incorrecta": "ermano"
+    },
+    {
+      "correcta": "hecho",
+      "descripcion": "Participio del verbo 'hacer'; 'echo' es incorrecto, ya que tiene otro significado.",
+      "incorrecta": "echo"
+    },
+    {
+      "correcta": "helicóptero",
+      "descripcion": "Sustantivo que designa un vehículo aéreo; 'elicóptero' es un error por omitir la H.",
+      "incorrecta": "elicóptero"
+    },
+    {
+      "correcta": "huella",
+      "descripcion": "Sustantivo que significa 'señal o marca', sobre todo al caminar; 'uella' es incorrecto por la omisión de la H.",
+      "incorrecta": "uella"
+    }
+  ]
+  
