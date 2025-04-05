@@ -1,23 +1,27 @@
-{
-    "version": 2,
-    "builds": [
-      {
-        "src": "server.js",
-        "use": "@vercel/node"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/api/(.*)",
-        "dest": "server.js"
-      },
-      {
-        "src": "/json/(.*)",
-        "dest": "/json/$1"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/$1"
-      }
-    ]
-  }
+[
+    {
+      "descripcion": "Selecciona la palabra escrita correctamente",
+      "correcta": "haber",
+      "incorrecta": "haver"
+    },
+    {
+      "descripcion": "Elige la forma correcta del verbo",
+      "correcta": "había",
+      "incorrecta": "avía"
+    },
+    {
+      "descripcion": "Selecciona la ortografía correcta",
+      "correcta": "voy",
+      "incorrecta": "boy"
+    },
+    {
+      "descripcion": "Identifica la escritura correcta",
+      "correcta": "ahora",
+      "incorrecta": "aora"
+    },
+    {
+      "descripcion": "¿Cuál es la forma correcta?",
+      "correcta": "hasta",
+      "incorrecta": "asta"
+    }
+  ]
