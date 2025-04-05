@@ -1,0 +1,58 @@
+[
+    {
+      "correcta": "exprimir",
+      "descripcion": "Verbo que significa 'extraer el jugo de algo'; 'esprimir' es un error de dígrafo.",
+      "incorrecta": "esprimir"
+    },
+    {
+      "correcta": "esencia",
+      "descripcion": "Sustantivo que se refiere a la parte fundamental de algo; 'esensia' es un error de escritura.",
+      "incorrecta": "esensia"
+    },
+    {
+      "correcta": "exótico",
+      "descripcion": "Adjetivo que significa 'raro o poco común'; 'esótico' es incorrecto por confusión en la escritura.",
+      "incorrecta": "esótico"
+    },
+    {
+      "correcta": "absorber",
+      "descripcion": "Verbo que significa 'incorporar un líquido'; 'absolver' es un error que confunde con otro verbo.",
+      "incorrecta": "absolver"
+    },
+    {
+      "correcta": "acceder",
+      "descripcion": "Verbo que significa 'tener acceso a algo'; 'aseder' es una forma errónea.",
+      "incorrecta": "aseder"
+    },
+    {
+      "correcta": "adhesivo",
+      "descripcion": "Adjetivo o sustantivo que se refiere a algo que se adhiere; 'adesivo' es incorrecto por omisión de la H.",
+      "incorrecta": "adesivo"
+    },
+    {
+      "correcta": "asumir",
+      "descripcion": "Verbo que significa 'suponer o aceptar'; 'azumir' es un error de consonante.",
+      "incorrecta": "azumir"
+    },
+    {
+      "correcta": "extraordinario",
+      "descripcion": "Adjetivo que significa 'fuera de lo común'; 'extrordinario' es un error por omisión de la letra 'a'.",
+      "incorrecta": "extrordinario"
+    },
+    {
+      "correcta": "desgraciadamente",
+      "descripcion": "Adverbio que significa 'de forma muy desafortunada'; 'desgrasiadamente' es incorrecto por error en la escritura.",
+      "incorrecta": "desgrasiadamente"
+    },
+    {
+      "correcta": "interesante",
+      "descripcion": "Adjetivo que significa 'llamativo o atractivo'; 'intresante' es un error por omisión de la 'e'.",
+      "incorrecta": "intresante"
+    },
+    {
+      "correcta": "pronunciación",
+      "descripcion": "Sustantivo que se refiere al modo de articular palabras; omitir la tilde ('pronunciacion') es incorrecto.",
+      "incorrecta": "pronunciacion"
+    }
+  ]
+  

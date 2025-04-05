@@ -1,0 +1,82 @@
+[
+  {
+    "correcta": "tubo",
+    "descripcion": "Sustantivo que se refiere a un cilindro hueco; no debe confundirse con 'tuvo', del verbo tener.",
+    "incorrecta": "tuvo"
+  },
+  {
+    "correcta": "estuvo",
+    "descripcion": "Verbo en pasado de 'estar'; la forma 'estubo' es un error ortográfico.",
+    "incorrecta": "estubo"
+  },
+  {
+    "correcta": "escribir",
+    "descripcion": "Verbo que significa 'anotar con letras'; 'escrivir' es una forma incorrecta.",
+    "incorrecta": "escrivir"
+  },
+  {
+    "correcta": "deber",
+    "descripcion": "Verbo que indica obligación; no se debe acentuar ni confundir con 'devér'.",
+    "incorrecta": "devér"
+  },
+  {
+    "correcta": "embestir",
+    "descripcion": "Verbo que significa 'atacar de frente'; 'envestir' es un error por confusión.",
+    "incorrecta": "envestir"
+  },
+  {
+    "correcta": "concebir",
+    "descripcion": "Verbo que significa 'formar o idear'; la forma 'concevir' es incorrecta.",
+    "incorrecta": "concevir"
+  },
+  {
+    "correcta": "subvención",
+    "descripcion": "Sustantivo que se refiere a una ayuda económica; 'subención' es una forma errónea.",
+    "incorrecta": "subención"
+  },
+  {
+    "correcta": "obvio",
+    "descripcion": "Adjetivo que significa 'claro o evidente'; la forma 'ovio' es incorrecta.",
+    "incorrecta": "ovio"
+  },
+  {
+    "correcta": "bendición",
+    "descripcion": "Sustantivo que significa 'acción de bendecir'; 'vendición' es un error común.",
+    "incorrecta": "vendición"
+  },
+  {
+    "correcta": "biología",
+    "descripcion": "Sustantivo que se refiere a la ciencia de la vida; 'viología' es un error de consonante.",
+    "incorrecta": "viología"
+  },
+  {
+    "correcta": "biblioteca",
+    "descripcion": "Sustantivo que designa un lugar para el préstamo de libros; 'viblioteca' es incorrecto.",
+    "incorrecta": "viblioteca"
+  },
+  {
+    "correcta": "bisiesto",
+    "descripcion": "Adjetivo que se refiere a un año con 366 días; 'visiesto' es un error ortográfico.",
+    "incorrecta": "visiesto"
+  },
+  {
+    "correcta": "botella",
+    "descripcion": "Sustantivo que indica un recipiente para líquidos; 'votella' es incorrecto.",
+    "incorrecta": "votella"
+  },
+  {
+    "correcta": "broma",
+    "descripcion": "Sustantivo que significa 'chiste' o 'burla'; 'vroma' es una forma errónea.",
+    "incorrecta": "vroma"
+  },
+  {
+    "correcta": "bueno",
+    "descripcion": "Adjetivo que significa 'de calidad favorable'; 'vueno' es un error de sustitución.",
+    "incorrecta": "vueno"
+  },
+  {
+    "correcta": "bebé",
+    "descripcion": "Sustantivo que se refiere a un infante; 'vebé' es una forma mal escrita.",
+    "incorrecta": "vebé"
+  }
+]
