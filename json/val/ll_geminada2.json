@@ -1,0 +1,167 @@
+[
+  {
+    "correcta": "al·legar",
+    "descripcion": "Verbal que significa 'afirmar en defensa propia'; 'alegar' és incorrecte per la falta de la l geminada.",
+    "incorrecta": "alegar"
+  },
+  {
+    "correcta": "alegria",
+    "descripcion": "Substantiu que indica un sentiment de felicitat; 'al·legria' és incorrecte perquè no necessita l·l.",
+    "incorrecta": "al·legria"
+  },
+  {
+    "correcta": "col·legi",
+    "descripcion": "Substantiu que fa referència a un centre educatiu; 'colegi' és incorrecte per omissió de la l geminada.",
+    "incorrecta": "colegi"
+  },
+  {
+    "correcta": "colador",
+    "descripcion": "Utensili utilitzat per a colar; 'colador' no necessita la l geminada.",
+    "incorrecta": "col·ador"
+  },
+  {
+    "correcta": "il·lusió",
+    "descripcion": "Substantiu que es refereix a una sensació de gran esperança o desig; 'ilusion' és incorrecte per la falta de la l geminada.",
+    "incorrecta": "ilusion"
+  },
+  {
+    "correcta": "ilerdenc",
+    "descripcion": "Adjectiu que fa referència a la zona geogràfica de l'Empordà; 'ilerdic' és erroni per la l geminada.",
+    "incorrecta": "ilerdic"
+  },
+  {
+    "correcta": "mil·lenni",
+    "descripcion": "Substantiu que indica un període de mil anys; 'mileni' és incorrecte sense la l geminada.",
+    "incorrecta": "mileni"
+  },
+  {
+    "correcta": "milió",
+    "descripcion": "Substantiu que significa un milió de unitats; 'milio' és incorrecte per la falta de l·l.",
+    "incorrecta": "milio"
+  },
+  {
+    "correcta": "sil·logisme",
+    "descripcion": "Raonament lògic que consisteix en deduir una conclusió a partir de premisses; 'silogisme' és incorrecte sense la l geminada.",
+    "incorrecta": "silogisme"
+  },
+  {
+    "correcta": "silenci",
+    "descripcion": "Substantiu que fa referència a l'absència de so; 'sil·enci' és incorrecte per la l geminada.",
+    "incorrecta": "sil·enci"
+  },
+  {
+    "correcta": "goril·la",
+    "descripcion": "Primat de gran tamany; 'gorila' és incorrecte per la manca de la l geminada.",
+    "incorrecta": "gorila"
+  },
+  {
+    "correcta": "parcel·la",
+    "descripcion": "Part d'un terreny, normalment cultivat o subdividit; 'parcela' és incorrecte sense l·l.",
+    "incorrecta": "parcela"
+  },
+  {
+    "correcta": "passarel·la",
+    "descripcion": "Camí o estructura elevada que serveix de pas; 'pasarel·la' és incorrecte per la manca de la l geminada.",
+    "incorrecta": "pasarel·la"
+  },
+  {
+    "correcta": "estel·lar",
+    "descripcion": "Que pertany o té relació amb les estrelles; 'estelar' és incorrecte sense l geminada.",
+    "incorrecta": "estelar"
+  },
+  {
+    "correcta": "interpel·lar",
+    "descripcion": "Verbal que vol dir preguntar amb insistent o seriós; 'interpelar' és incorrecte per la falta de l·l.",
+    "incorrecta": "interpelar"
+  },
+  {
+    "correcta": "impel·lir",
+    "descripcion": "Verbal que significa empènyer o impulsar; 'impeler' és incorrecte per falta de l geminada.",
+    "incorrecta": "impeler"
+  },
+  {
+    "correcta": "expel·lir",
+    "descripcion": "Verbal que vol dir expulsar alguna cosa; 'expulsar' és incorrecte en aquest context.",
+    "incorrecta": "expulsar"
+  },
+  {
+    "correcta": "repel·lir",
+    "descripcion": "Verbal que significa rebutjar amb força o repulsió; 'repeler' és incorrecte en aquest cas.",
+    "incorrecta": "repeler"
+  },
+  {
+    "correcta": "intel·ligent",
+    "descripcion": "Adjectiu que fa referència a una persona amb bona capacitat de raonar; 'inteligent' és incorrecte sense l geminada.",
+    "incorrecta": "inteligent"
+  },
+  {
+    "correcta": "cal·ligrafia",
+    "descripcion": "Art de l'escriptura bonica; 'caligrafia' és incorrecte per falta de la l geminada.",
+    "incorrecta": "caligrafia"
+  },
+  {
+    "correcta": "cèl·lula",
+    "descripcion": "Unitat estructural bàsica dels organismes vius; 'celula' és incorrecte per la manca de l geminada.",
+    "incorrecta": "celula"
+  },
+  {
+    "correcta": "medul·la",
+    "descripcion": "Teixit interior de certs òrgans; 'medula' és incorrecte per la falta de la l geminada.",
+    "incorrecta": "medula"
+  },
+  {
+    "correcta": "satèl·lit",
+    "descripcion": "Objecte que orbita al voltant d'un planeta o estrella; 'satel·lit' és incorrecte sense l geminada.",
+    "incorrecta": "satel·lit"
+  },
+  {
+    "correcta": "violoncel·lista",
+    "descripcion": "Persona que toca el violoncel; 'violoncellista' és incorrecte per falta de l geminada.",
+    "incorrecta": "violoncellista"
+  },
+  {
+    "correcta": "col·legi",
+    "descripcion": "Centre d'ensenyament; 'colegi' és incorrecte per falta de la l geminada.",
+    "incorrecta": "colegi"
+  },
+  {
+    "correcta": "colador",
+    "descripcion": "Utensili utilitzat per a colar; 'colador' no necessita l·l.",
+    "incorrecta": "col·ador"
+  },
+  {
+    "correcta": "colomar",
+    "descripcion": "Lloc on es cria els coloms; 'colom' és incorrecte en aquest context.",
+    "incorrecta": "colom"
+  },
+  {
+    "correcta": "colònia",
+    "descripcion": "Conjunt de persones que viuen en una zona o poble colonitzat; 'colonia' és incorrecte sense l geminada.",
+    "incorrecta": "colonia"
+  },
+  {
+    "correcta": "color",
+    "descripcion": "Percepció visual de les diverses longituds d'ona de la llum; 'col·lor' és incorrecte per la l geminada.",
+    "incorrecta": "col·lor"
+  },
+  {
+    "correcta": "columna",
+    "descripcion": "Pilar vertical que serveix de suport; 'col·umna' és incorrecte en aquest cas.",
+    "incorrecta": "col·umna"
+  },
+  {
+    "correcta": "elaborar",
+    "descripcion": "Verbal que significa crear o produir alguna cosa; 'elavorar' és incorrecte per falta de la l geminada.",
+    "incorrecta": "elavorar"
+  },
+  {
+    "correcta": "elegància",
+    "descripcion": "Qualitat de ser elegant; 'elegancia' és incorrecte per la falta de l geminada.",
+    "incorrecta": "elegancia"
+  },
+  {
+    "correcta": "galant",
+    "descripcion": "Adjectiu que significa cortès o ple de galanteria; 'galant' és correcte, sense l geminada.",
+    "incorrecta": "galant"
+  }
+]

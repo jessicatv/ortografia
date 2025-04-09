@@ -22,6 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
     ],
     val: [
       "frequents.json",
+      "ll_geminada.json",
+      "ll_geminada2.json",
       "accent.json",
       "accent2.json",
       "accent3.json",
